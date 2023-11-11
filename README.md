@@ -1,2 +1,3 @@
 #BootStrap ile ilk web sitem.
-![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://im4.ezgif.com/tmp/ezgif-4-2b761b66b5.gif)https://im4.ezgif.com/tmp/ezgif-4-2b761b66b5.gif)
+
+![bootstrap](https://github.com/merthkmdd/bootstrapfirstpage/assets/83078171/8486acc3-ff2f-41e7-8ad9-4ca5f70279aa)
